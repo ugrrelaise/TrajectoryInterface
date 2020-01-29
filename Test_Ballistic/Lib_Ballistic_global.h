@@ -1,0 +1,12 @@
+#ifndef LIB_BALLISTIC_GLOBAL_H
+#define LIB_BALLISTIC_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(LIB_BALLISTIC_LIBRARY)
+#  define LIB_BALLISTIC_EXPORT Q_DECL_EXPORT
+#else
+#  define LIB_BALLISTIC_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // LIB_BALLISTIC_GLOBAL_H

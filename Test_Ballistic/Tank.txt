@@ -1,0 +1,3 @@
+TANK	3719.5	APFSDS-T, M735	1501.14	4.2	G5
+ Ugr bullet tnk	5435.7	Ugr's tank bullet	1765.8	4.8
+ tnk bullet 007	4356	007 tnk	5432	4.3

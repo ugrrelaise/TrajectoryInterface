@@ -1,0 +1,237 @@
+ 220 Swift	2.59	Nosler Ballistic Tip	1295	0.221
+ 220 Swift	3.37	 Sierra MatchKing BTHP	1167	0.244
+ 222 Rem. (5.56x43mm)	2.59	 Nosler Ballistic Tip	1052	0.221
+ 222 Rem. (5.56x43mm)	3.24	 Soft Point	957	0.175
+ 222 Rem. (5.56x43mm)	3.56	 Full Metal Jacket Boat-Tail	920	0.336
+ 22-250 Rem.	2.59	 Nosler Ballistic Tip	1265	0.221
+ 22-250 Rem.	3.56	 Soft Point	1122	0.197
+ 22-250 Rem.	3.56	 Sierra GameKing BTHP	1122	0.276
+ 22-250 Rem.	3.56	 Nosler Ballistic Tip	1122	0.267
+ 22-250 Rem.	3.56	 Trophy Bonded Bear Claw	1097	0.201
+ 22-250 Rem.	3.89	 Nosler Partition	1067	0.227
+ 223 Rem. (5.56x45mm)	2.59	 Nosler Ballistic Tip	1128	0.221
+ 223 Rem. (5.56x45mm)	3.24	 Jacketed Hollow Point	1036	0.204
+ 223 Rem. (5.56x45mm)	3.24	 Jacketed Hollow Point	1036	0.204
+ 223 Rem. (5.56x45mm)	3.56	 Soft Point	988	0.196
+ 223 Rem. (5.56x45mm)	3.56	 Full Metal Jacket Boat-Tail	988	0.339
+ 223 Rem. (5.56x45mm)	3.56	 Full Metal Jacket Boat-Tail	988	0.339
+ 223 Rem. (5.56x45mm)	3.56	 Sierra GameKing BTHP	988	0.206
+ 223 Rem. (5.56x45mm)	3.56	 Nosler Ballistic Tip	988	0.266
+ 223 Rem. (5.56x45mm)	3.56	 Trophy Bonded Bear Claw	945	0.202
+ 223 Rem. (5.56x45mm)	3.89	 Nosler Partition	963	0.227
+ 223 Rem. (5.56x45mm)	4.02	 Full Metal Jacket Boat-Tail	920	0.254
+ 223 Rem. (5.56x45mm)	4.15	 Soft Point	942	0.237
+ 223 Rem. (5.56x45mm)	4.47	 Sierra MatchKing BTHP	914	0.338
+ 223 Rem. (5.56x45mm)	4.99	 Sierra MatchKing BTHP	838	0.362
+ 243 Win. (6.16x51mm)	3.56	 Nosler Ballistic Tip	1173	0.267
+ 243 Win. (6.16x51mm)	4.54	 Nosler Ballistic Tip	1036	0.309
+ 243 Win. (6.16x51mm)	5.18	 Speer® Hot-Cor SP	1021	0.255
+ 243 Win. (6.16x51mm)	5.51	 Sierra GameKing BTHP	1012	0.399
+ 243 Win. (6.16x51mm)	6.16	 Nosler Ballistic Tip	924	0.378
+ 243 Win. (6.16x51mm)	6.48	 Soft Point	902	0.355
+ 243 Win. (6.16x51mm)	6.48	 Sierra GameKing BTSP	902	0.471
+ 243 Win. (6.16x51mm)	6.48	 Nosler Partition	902	0.405
+ 243 Win. (6.16x51mm)	6.48	 Nosler Solid Base BT	905	0.386
+ 25-06 Rem.	5.51	 Nosler Ballistic Tip	1082	0.329
+ 25-06 Rem.	6.48	 Nosler Ballistic Tip	978	0.394
+ 25-06 Rem.	6.48	 Barnes Triple Shock X-Bullet	978	0.419
+ 25-06 Rem.	7.45	 Nosler Partition	911	0.393
+ 25-06 Rem.	7.45	 Trophy Bonded Bear Claw	911	0.37
+ 25-06 Rem.	7.58	 Speer® Hot-Cor SP	911	0.361
+ 25-06 Rem.	7.58	 Sierra GameKing BTSP	911	0.41
+ 257 Roberts	7.78	 Nosler Partition	847	0.415
+ 260 Rem.	7.78	 Nosler Ballistic Tip	899	0.457
+ 260 Rem.	9.07	 Sierra GameKing BTSP	838	0.491
+ 270 Weatherby Magnum	8.42	 Nosler Solid Base BT	1000	0.42
+ 270 Weatherby Magnum	9.07	 Trophy Bonded Bear Claw	945	0.375
+ 270 Win.	8.42	 Soft Point	933	0.372
+ 270 Win.	8.42	 Sierra GameKing BTSP	933	0.426
+ 270 Win.	8.42	 Nosler Ballistic Tip	933	0.432
+ 270 Win.	8.42	 Barnes Triple Shock X-Bullet	933	0.426
+ 270 Win.	8.42	 Nosler Partition	933	0.416
+ 270 Win.	8.42	 Nosler Solid Base BT	930	0.419
+ 270 Win.	9.07	 Nosler AccuBond	899	0.491
+ 270 Win.	9.07	 Trophy Bonded Bear Claw	896	0.393
+ 270 Win.	9.07	 Trophy Bonded Bear Claw	945	0.398
+ 270 Win.	9.4	 Soft Point FN	671	0.41
+ 270 Win.	9.72	 Soft Point RN	869	0.261
+ 270 Win.	9.72	 Sierra GameKing BTSP	869	0.48
+ 270 Win.	9.72	 Nosler Partition	869	0.466
+ 270 Win. Short Magnum	8.42	 Soft Point	991	0.367
+ 270 Win. Short Magnum	8.42	 Nosler Ballistic Tip	1006	0.433
+ 270 Win. Short Magnum	8.42	 Barnes Triple Shock X-Bullet	1000	0.42
+ 270 Win. Short Magnum	8.42	 Nosler Partition	1000	0.416
+ 270 Win. Short Magnum	8.42	 Nosler Solid Base BT	1000	0.42
+ 270 Win. Short Magnum	9.07	 Nosler AccuBond	975	0.498
+ 270 Win. Short Magnum	9.07	 Trophy Bonded Bear Claw	954	0.387
+ 270 Win. Short Magnum	9.72	 Nosler Partition	963	0.466
+ 280 Rem.	9.07	 Soft Point	911	0.374
+ 280 Rem.	9.07	 Nosler AccuBond	914	0.485
+ 280 Rem.	9.07	 Nosler Ballistic Tip	911	0.489
+ 280 Rem.	9.07	 Nosler Solid Base BT	924	0.459
+ 280 Rem.	9.72	 Soft Point	881	0.415
+ 280 Rem.	9.72	 Nosler Partition	881	0.457
+ 280 Rem.	10.37	 Nosler AccuBond	853	0.531
+ 280 Rem.	10.37	 Trophy Bonded Bear Claw	853	0.411
+ 30 Carbine	7.13	 Soft Point RN	607	0.165
+ 30 Carbine	7.13	 Full Metal Jacket	607	0.165
+ 300 H&H Magnum	11.66	 Nosler Partition	878	0.356
+ 300 Rem. Ultra Magnum	10.69	 Nosler Solid Base BT	1000	0.433
+ 300 Rem. Ultra Magnum	11.66	 Trophy Bonded Bear Claw	991	0.407
+ 300 Rem. Ultra Magnum	12.96	 Nosler Partition	936	0.476
+ 300 Savage	9.72	 Soft Point	802	0.313
+ 300 Savage	11.66	 Soft Point	716	0.383
+ 300 Weatherby Magnum	11.66	 Nosler Partition	972	0.469
+ 300 Weatherby Magnum	11.66	 Nosler Solid Base BT	948	0.495
+ 300 Weatherby Magnum	11.66	 Trophy Bonded Bear Claw	945	0.408
+ 300 Win. Magnum	9.72	 Speer® Hot-Cor SP	1000	0.405
+ 300 Win. Magnum	9.72	 Trophy Bonded Bear Claw	1000	0.335
+ 300 Win. Magnum	10.69	 Nosler Partition	930	0.409
+ 300 Win. Magnum	10.69	 Nosler Ballistic Tip	930	0.474
+ 300 Win. Magnum	10.69	 Nosler Solid Base BT	957	0.434
+ 300 Win. Magnum	11.66	 Speer® Hot-Cor SP	902	0.439
+ 300 Win. Magnum	11.66	 Nosler AccuBond	902	0.524
+ 300 Win. Magnum	11.66	 Nosler Partition	902	0.355
+ 300 Win. Magnum	11.66	 Barnes Triple Shock X-Bullet	902	0.471
+ 300 Win. Magnum	11.66	 Nosler Solid Base BT	905	0.494
+ 300 Win. Magnum	11.66	 Trophy Bonded Bear Claw	902	0.359
+ 300 Win. Magnum	11.66	 Trophy Bonded Bear Claw	945	0.358
+ 300 Win. Magnum	12.31	 Sierra MatchKing BTHP	884	0.534
+ 300 Win. Magnum	12.96	 Nosler Partition	893	0.413
+ 300 Win. Magnum	12.96	 Trophy Bonded Bear Claw	823	0.591
+ 300 Win. Short Magnum	9.72	 Nosler Ballistic Tip	975	0.431
+ 300 Win. Short Magnum	10.69	 Nosler Partition	954	0.411
+ 300 Win. Short Magnum	10.69	 Nosler Solid Base BT	954	0.433
+ 300 Win. Short Magnum	11.66	 Soft Point	905	0.204
+ 300 Win. Short Magnum	11.66	 Nosler AccuBond	902	0.524
+ 300 Win. Short Magnum	11.66	 Nosler Partition	907	0.42
+ 300 Win. Short Magnum	11.66	 Barnes Triple Shock X-Bullet	908	0.467
+ 300 Win. Short Magnum	11.66	 Nosler Solid Base BT	907	0.491
+ 300 Win. Short Magnum	11.66	 Trophy Bonded Bear Claw	905	0.391
+ 30-06 Spring. (7.62x63mm)	8.1	 Soft Point	957	0.267
+ 30-06 Spring. (7.62x63mm)	9.72	 Soft Point	887	0.313
+ 30-06 Spring. (7.62x63mm)	9.72	 Full Metal Jacket Boat-Tail	887	0.459
+ 30-06 Spring. (7.62x63mm)	9.72	 Sierra GameKing BTSP	887	0.411
+ 30-06 Spring. (7.62x63mm)	9.72	 Nosler Ballistic Tip	887	0.434
+ 30-06 Spring. (7.62x63mm)	9.72	 Nosler Solid Base BT	884	0.395
+ 30-06 Spring. (7.62x63mm)	10.69	 Nosler Partition	863	0.409
+ 30-06 Spring. (7.62x63mm)	10.69	 Sierra GameKing BTSP	853	0.468
+ 30-06 Spring. (7.62x63mm)	10.69	 Nosler Ballistic Tip	853	0.475
+ 30-06 Spring. (7.62x63mm)	10.69	 Nosler Solid Base BT	850	0.428
+ 30-06 Spring. (7.62x63mm)	10.69	 Trophy Bonded Bear Claw	853	0.341
+ 30-06 Spring. (7.62x63mm)	10.69	 Trophy Bonded Bear Claw	914	0.346
+ 30-06 Spring. (7.62x63mm)	10.89	 Sierra MatchKing BTHP	823	0.463
+ 30-06 Spring. (7.62x63mm)	11.02	 Soft Point	610	0.284
+ 30-06 Spring. (7.62x63mm)	11.66	 Soft Point	823	0.385
+ 30-06 Spring. (7.62x63mm)	11.66	 Nosler AccuBond	823	0.518
+ 30-06 Spring. (7.62x63mm)	11.66	 Barnes Triple Shock X-Bullet	823	0.478
+ 30-06 Spring. (7.62x63mm)	11.66	 Nosler Partition	823	0.456
+ 30-06 Spring. (7.62x63mm)	11.66	 Nosler Partition	878	0.476
+ 30-06 Spring. (7.62x63mm)	11.66	 Nosler Solid Base BT	826	0.487
+ 30-06 Spring. (7.62x63mm)	11.66	 Trophy Bonded Bear Claw	823	0.361
+ 30-06 Spring. (7.62x63mm)	11.66	 Trophy Bonded Bear Claw	878	0.36
+ 30-06 Spring. (7.62x63mm)	14.26	 Soft Point	735	0.293
+ 303 British	9.72	 Soft Point	820	0.356
+ 303 British	11.66	 Speer® Hot-Cor SP	750	0.37
+ 30-30 Win.	8.1	 Hollow Point	783	0.171
+ 30-30 Win.	9.72	 Soft Point FN	728	0.218
+ 30-30 Win.	11.02	 Soft Point FN	671	0.254
+ 30-30 Win.	11.02	 Nosler Partition	671	0.254
+ 308 Win. (7.62x51mm)	9.72	 Soft Point	860	0.313
+ 308 Win. (7.62x51mm)	9.72	 Full Metal Jacket Boat-Tail	860	0.456
+ 308 Win. (7.62x51mm)	9.72	 Nosler Ballistic Tip	860	0.437
+ 308 Win. (7.62x51mm)	9.72	 Nosler Partition	866	0.384
+ 308 Win. (7.62x51mm)	9.72	 Nosler Solid Base BT	853	0.395
+ 308 Win. (7.62x51mm)	9.72	 Barnes Triple Shock X-Bullet	860	0.431
+ 308 Win. (7.62x51mm)	10.69	 Sierra GameKing BTSP	823	0.47
+ 308 Win. (7.62x51mm)	10.69	 Nosler Solid Base BT	814	0.427
+ 308 Win. (7.62x51mm)	10.69	 Trophy Bonded Bear Claw	823	0.344
+ 308 Win. (7.62x51mm)	10.89	 Sierra MatchKing BTHP	792	0.459
+ 308 Win. (7.62x51mm)	11.02	 Soft Point	610	0.284
+ 308 Win. (7.62x51mm)	11.34	 Sierra MatchKing BTHP	792	0.497
+ 308 Win. (7.62x51mm)	11.66	 Soft Point	799	0.382
+ 308 Win. (7.62x51mm)	11.66	 Nosler Partition	799	0.447
+ 308 Win. (7.62x51mm)	11.66	 Nosler Partition	835	0.475
+ 32 Win. Special	11.02	 Soft Point FN	686	0.24
+ 338 Rem. Ultra Magnum	11.66	 Nosler Ballistic Tip	1000	0.507
+ 338 Rem. Ultra Magnum	13.61	 Nosler Partition	924	0.423
+ 338 Rem. Ultra Magnum	14.58	 Nosler AccuBond	920	0.549
+ 338 Rem. Ultra Magnum	16.2	 Trophy Bonded Bear Claw	872	0.406
+ 338 Win. Magnum	11.66	 Nosler Ballistic Tip	951	0.373
+ 338 Win. Magnum	13.61	 Nosler Partition	863	0.398
+ 338 Win. Magnum	14.58	 Soft Point	847	0.421
+ 338 Win. Magnum	14.58	 Nosler AccuBond	853	0.548
+ 338 Win. Magnum	14.58	 Barnes Triple Shock X-Bullet	853	0.482
+ 338 Win. Magnum	14.58	 Trophy Bonded Bear Claw	853	0.371
+ 338 Win. Magnum	14.58	 Trophy Bonded Bear Claw	896	0.37
+ 338 Win. Magnum	16.2	 Nosler Partition	811	0.473
+ 338 Win. Magnum	16.2	 Nosler Partition	853	0.475
+ 340 Weatherby Magnum	14.58	 Trophy Bonded Bear Claw	884	0.375
+ 35 Rem.	12.96	 Soft Point RN	634	0.192
+ 35 Whelen	14.58	 Trophy Bonded Bear Claw	792	0.426
+ 357 Magnum	11.66	 Hollow Point	472	0.132
+ 375 H&H Magnum	16.2	 Trophy Bonded Bear Claw	814	0.286
+ 375 H&H Magnum	16.85	 Nosler AccuBond	823	0.47
+ 375 H&H Magnum	17.5	 Soft Point	820	0.323
+ 375 H&H Magnum	19.44	 Soft Point	771	0.323
+ 375 H&H Magnum	19.44	 Nosler Partition	771	0.405
+ 375 H&H Magnum	19.44	 Trophy Bonded Bear Claw	771	0.311
+ 375 H&H Magnum	19.44	 Trophy Bonded Sledgehammer Solid	771	0.226
+ 375 H&H Magnum	19.44	 Trophy Bonded Bear Claw	792	0.334
+ 416 Rem. Magnum	25.92	 Nosler Partition	735	0.391
+ 416 Rem. Magnum	25.92	 Trophy Bonded Bear Claw	732	0.373
+ 416 Rem. Magnum	25.92	 Trophy Bonded Sledgehammer Solid	732	0.329
+ 416 Rigby	25.92	 Nosler Partition	744	0.389
+ 416 Rigby	25.92	 Trophy Bonded Bear Claw	722	0.374
+ 416 Rigby	25.92	 Trophy Bonded Sledgehammer Solid	722	0.321
+ 44 Rem. Magnum	15.55	 Hollow Point	536	0.157
+ 45-70 Government	19.44	 Speer® Hot-Cor SP	573	0.289
+ 458 Win. Magnum	25.92	 Trophy Bonded Bear Claw	725	0.381
+ 458 Win. Magnum	32.4	 Trophy Bonded Bear Claw	637	0.34
+ 458 Win. Magnum	32.4	 Trophy Bonded Sledgehammer Solid	637	0.334
+ 470 Nitro Express	32.4	 Woodleigh Weldcore SP	655	0.3
+ 470 Nitro Express	32.4	 Woodleigh Solid	655	0.3
+ 470 Nitro Express	32.4	 Trophy Bonded Bear Claw	655	0.369
+ 470 Nitro Express	32.4	 Trophy Bonded Sledgehammer Solid	655	0.369
+ 6.5x55 Swedish	9.07	 Soft Point	792	0.438
+ 6mm Rem.	5.18	 Speer® Hot-Cor SP	1058	0.256
+ 6mm Rem.	6.48	 Soft Point	945	0.354
+ 6mm Rem.	6.48	 Nosler Partition	945	0.408
+ 7.62x39mm Soviet	7.97	 Soft Point	701	0.294
+ 7.62x39mm Soviet	8.04	 Full Metal Jacket	701	0.298
+ 7-30 Waters	7.78	 Sierra GameKing BTSP-FN	823	0.215
+ 7mm Mauser (7x57mm Mauser)	9.07	 Speer® Hot-Cor SP	811	0.426
+ 7mm Mauser (7x57mm Mauser)	9.07	 Nosler Partition	811	0.426
+ 7mm Mauser (7x57mm Mauser)	11.34	 Soft Point RN	744	0.272
+ 7mm Rem. Magnum	9.07	 Nosler AccuBond	948	0.485
+ 7mm Rem. Magnum	9.07	 Nosler Partition	960	0.441
+ 7mm Rem. Magnum	9.07	 Nosler Ballistic Tip	945	0.487
+ 7mm Rem. Magnum	9.72	 Soft Point	948	0.347
+ 7mm Rem. Magnum	9.72	 Sierra GameKing BTSP	948	0.526
+ 7mm Rem. Magnum	9.72	 Nosler Ballistic Tip	948	0.495
+ 7mm Rem. Magnum	9.72	 Nosler Solid Base BT	945	0.46
+ 7mm Rem. Magnum	10.37	 Nosler AccuBond	899	0.531
+ 7mm Rem. Magnum	10.37	 Nosler Partition	899	0.507
+ 7mm Rem. Magnum	10.37	 Barnes Triple Shock X-Bullet	896	0.462
+ 7mm Rem. Magnum	10.37	 Trophy Bonded Bear Claw	896	0.414
+ 7mm Rem. Magnum	10.69	 Sierra GameKing BTSP	899	0.62
+ 7mm Rem. Magnum	11.34	 Soft Point	872	0.429
+ 7mm Rem. Magnum	11.34	 Trophy Bonded Bear Claw	872	0.417
+ 7mm STW	9.72	 Nosler Solid Base BT	969	0.456
+ 7mm STW	10.37	 Nosler AccuBond	945	0.533
+ 7mm Weatherby Magnum	9.72	 Nosler Solid Base BT	985	0.455
+ 7mm Weatherby Magnum	10.37	 Trophy Bonded Bear Claw	930	0.293
+ 7mm Win. Short Magnum	9.07	 Nosler AccuBond	991	0.485
+ 7mm Win. Short Magnum	9.07	 Nosler Ballistic Tip	1009	0.482
+ 7mm Win. Short Magnum	9.72	 Soft Point	975	0.359
+ 7mm Win. Short Magnum	9.72	 Nosler Solid Base BT	985	0.455
+ 7mm Win. Short Magnum	10.37	 Nosler AccuBond	951	0.535
+ 7mm Win. Short Magnum	10.37	 Nosler Partition	963	0.473
+ 7mm Win. Short Magnum	10.37	 Barnes Triple Shock X-Bullet	911	0.461
+ 7mm Win. Short Magnum	10.37	 Trophy Bonded Bear Claw	951	0.405
+ 7mm-08 Rem.	9.07	 Nosler Partition	853	0.435
+ 7mm-08 Rem.	9.07	 Nosler AccuBond	853	0.485
+ 7mm-08 Rem.	9.07	 Nosler Ballistic Tip	853	0.489
+ 7mm-08 Rem.	9.07	 Nosler Solid Base BT	878	0.463
+ 7mm-08 Rem.	9.72	 Speer® Hot-Cor SP	808	0.413
+ 8mm Mauser (8x57mm JS Mauser)	11.02	 Soft Point	719	0.204
